@@ -5,10 +5,10 @@ A script manager inside a QWidget-based Terminal window
 **RPRMScripting** version 0.0.1a
 
 **What Can A Script Do**
-- normal standard lib python, possible with some restriction on disk access
+- normal standard lib python, possibly with some restriction on disk access
 - a script can request additional data from the host:
  - Packed Files: GetPackedFile("roman_ass.rigid_model_v2")
- - Request Data Processing: Conver the RMV2 Binaryt into a common mesh format (which is also done by a script)
+ - Request Data Processing: Convert the RMV2 Binaryt into a common mesh format (which is also done by a script)
  - Manipulate the loaded data
  - Send Back the loaded data
 - many different scripts can you simultanously, including many instances of the same script
