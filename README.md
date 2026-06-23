@@ -44,3 +44,7 @@ dirty, worky.
 
 Very clumsy maybe, but it is a startpoint
 
+# RPFMScripting Version 0.0.1
+What to include, what is the MVP, that is still useful, and cover both internal scripting and user scripts?
+
+
